@@ -60,7 +60,7 @@ A platform inspired by Twitter, focusing on real-time interactions.
 ---
 
 ## 📫 Let's Connect!
-- 📧 Email: [sarfaraz.akbar@wipro.com](mailto:sarfaraz.akbar@wipro.com)  
+- 📧 Email: [sarfarazakbar777@gmail.com](mailto:sarfarazakbar777@gmail.com)  
 - 🌐 GitHub: [Md-Sarfaraz-Akbar](https://github.com/Md-Sarfaraz-Akbar)  
 
 ---
